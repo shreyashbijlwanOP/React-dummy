@@ -12,7 +12,7 @@ function App() {
 
       <main className="container">
         <div className="row mt-4">
-          <div className="col-8 m-auto shadow rounded">
+          <div className="col-8 m-auto shadow rounded lol">
           <Name name ={"Shreyash"}/>
             <div className="borderline"></div>
             <div className="row my-3">

@@ -30,9 +30,6 @@ function App() {
           </div>
         </div>
       </main>
-      <footer className="mt-3">
-        <p className="footer">all right reserved Designed By shreyash</p>
-      </footer>
     </div>
   );
 }

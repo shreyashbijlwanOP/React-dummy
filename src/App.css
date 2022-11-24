@@ -14,5 +14,5 @@
   background-color: #262626;
   color: white;
   text-align: center;
-  max-height: 30vh;
+  min-height: 30vh;
 }

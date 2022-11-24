@@ -10,3 +10,9 @@
 .lol{
   background-color: white;
 }
+.footer{
+  background-color: #262626;
+  color: white;
+  text-align: center;
+  max-height: 30vh;
+}

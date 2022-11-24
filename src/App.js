@@ -30,6 +30,9 @@ function App() {
           </div>
         </div>
       </main>
+      <footer>
+        <p className="footer">all right reserved Designed By shreyash</p>
+      </footer>
     </div>
   );
 }

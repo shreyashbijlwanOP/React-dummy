@@ -4,11 +4,11 @@
   background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); ;
 }
 
-*{
+body{
   background-color: rgb(225, 224, 224);
 }
 .lol{
-  background-color: white;
+  background-color: white !important;
 }
 .footer{
   background-color: #262626;
